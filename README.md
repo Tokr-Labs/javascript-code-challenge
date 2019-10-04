@@ -24,6 +24,7 @@ The requirements for your application are as follows:
 4) Comics are sorted by date with the most recent comics first.
 5) Includes a checkbox that, when checked, sorts the comic strips by date so the least recent comics are first.
 6) When the checkbox is unchecked, the comics revert to most recent first.
+7) Styling for the page is done using using the [styled-components](https://www.styled-components.com/) library.
 
 
 ## Evaluation Criteria
@@ -34,6 +35,7 @@ The requirements for your application are as follows:
 * `npm i` downloads all dependencies.
 * `npm start` runs the application.
 * React components are organized into separate files.
+* Styling is used to enhance the page, and done so in reusable components.
 * No console errors.
 * Meets the challenge requirements.
 
